@@ -1,10 +1,10 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "imagebaseurl":"https://noothanks.github.io/",
+    "name": "Corey Fuller",
+    "role": "Full-Stack Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I attended the University of Central Florida's Full-Stack Web Development course. I love to write code and learn about new ideas in the development world.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -13,7 +13,7 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/noothanks",
           "className":"fa fa-github"
         },
         {
@@ -22,39 +22,32 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I began my development journey in February of 2022 by teaching myself the basics of HTML, CSS, and JavaScript.  After these sparked my interest, I decided to attend a coding bootcamp provided by UCF. Completing the course has taught me how to learn new concepts quickly, and consistently adapt to everchanging technology.",
+    "address":"Florida, USA",
+    "website":"https://noothanks.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of Central Florida",
+        "specialization":"Coding Bootcamp",
+        "MonthOfPassing":"Sept",
+        "YearOfPassing":"2022",
+        "Achievements":"Expanded starting knowledge of introductory concepts in order to create web applications following the MERN Stack in web development."
       },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Publix",
+        "specialization":"Customer Service Staff",
+        "MonthOfLeaving":"July",
+        "YearOfLeaving":"2022",
+        "Achievements":"Handled opening and closing the cash office responsibilities, the demands of the Customer Service counter, and coordination of the registers."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Publix",
+        "specialization":"Cashier/Bagger",
+        "MonthOfLeaving":"June",
+        "YearOfLeaving":"2021",
+        "Achievements":"Maintained relationships with customers by providing premier customer service."
       }
     ],
     "skillsDescription":"Your skills here",
