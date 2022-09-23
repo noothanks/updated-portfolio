@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://noothanks.github.io/",
-    "name": "Corey Fuller",
+    "name": "Welcome!",
     "role": "Full-Stack Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": " I attended the University of Central Florida's Full-Stack Web Development course. I love to write code and learn about new ideas in the development world.",
+    "roleDescription": " I attended the University of Central Florida's Full-Stack Web Development course. I love to write code and learn about new ideas in the development world. See more below!",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -31,7 +31,7 @@ let resumeData = {
         "specialization":"Coding Bootcamp",
         "MonthOfPassing":"Sept",
         "YearOfPassing":"2022",
-        "Achievements":"Expanded starting knowledge of introductory concepts in order to create web applications following the MERN Stack in web development."
+        "Achievements":"Expanded upon starting knowledge of introductory concepts in order to create web applications following the MERN Stack in web development."
       },
     ],
     "work":[
@@ -48,6 +48,20 @@ let resumeData = {
         "MonthOfLeaving":"June",
         "YearOfLeaving":"2021",
         "Achievements":"Maintained relationships with customers by providing premier customer service."
+      },
+      {
+        "CompanyName":"The Sharing Center",
+        "specialization":"Cashier/Merchandiser",
+        "MonthOfLeaving":"July",
+        "YearOfLeaving":"2019",
+        "Achievements":"Maintained relationships with customers and clients, handled cash and accounted for a register, and priced donations entering the thrift store."
+      },
+      {
+        "CompanyName":"The Sharing center",
+        "specialization":"Volunteer",
+        "MonthOfLeaving":"June",
+        "YearOfLeaving":"2017",
+        "Achievements":"Accepted and sorted donations at the distribution center, cleaned showers and washed towels in the building's 'Oasis', and stocked merchandise on the Thrift Store shelves."
       }
     ],
     "skillsDescription":"Your skills here",
