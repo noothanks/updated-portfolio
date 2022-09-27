@@ -72,9 +72,7 @@ export default  class Resume extends Component {
                {resumeData.skillsDescription}
                </p>
 
-   				<div className="bars">
-
-   				   <ul className="skills">
+   				   <div className="skills">
                 {
                   resumeData.skills && resumeData.skills.map((item) => {
                     return(
@@ -85,9 +83,7 @@ export default  class Resume extends Component {
                   })
                 }
 
-   					</ul>
-
-   				</div>
+   					 </div>
 
    			</div>
 

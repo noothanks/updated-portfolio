@@ -1,4 +1,11 @@
 import React, { Component } from 'react';
+
+// var AppUrl = document.getElementById('#app-url');
+
+// function getAppUrl = () {
+  
+// }
+
 export default class Porfolio extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -13,7 +20,7 @@ export default class Porfolio extends Component {
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="#modal-01">
+                    <a id='app-url' href={`${item.appurl}`}>
                       <img src={`${item.imgurl}`} className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">

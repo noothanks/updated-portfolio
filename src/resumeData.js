@@ -64,7 +64,7 @@ let resumeData = {
         "Achievements":"Accepted and sorted donations at the distribution center, cleaned showers and washed towels in the building's 'Oasis', and stocked merchandise on the Thrift Store shelves."
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Languages I have had experience with include:",
     "skills":[
       {
         "skillname":"HTML5"
@@ -86,28 +86,38 @@ let resumeData = {
       },
       {
         "skillname": "MySQL"
+      },
+      {
+        "skillname": "jQuery"
+      },
+      {
+        "skillname": "Jest"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"E-Commerce Back-End",
+        "description":"Database for storing and updating products",
+        "appurl":"modal1",
+        "imgurl":"images/portfolio/ecommerce-backend-routes.png",
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Tech Blog",
+        "description":"Api for posting and responding to thoughts about tech",
+        "appurl":"modal2",
+        "imgurl":"images/portfolio/tech-blog.png",
       },
       {
         "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "description":"Full-Stack E-Commerce Site",
+        "appurl":"#modal3",  
+        "imgurl":"images/portfolio/mern-spa.png",
       },
       {
         "name":"project4",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "appurl":"https://github.com/noothanks/e-commerce-back-end",
+        "imgurl":"images/portfolio/weather-dashboard.png",
       }
     ],
     "testimonials":[
