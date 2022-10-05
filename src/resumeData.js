@@ -100,24 +100,28 @@ let resumeData = {
         "description":"Database for storing and updating products",
         "appurl":"modal1",
         "imgurl":"images/portfolio/ecommerce-backend-routes.png",
+        "alt": "E-Commerce Back-End"
       },
       {
         "name":"Tech Blog",
         "description":"Api for posting and responding to thoughts about tech",
         "appurl":"modal2",
         "imgurl":"images/portfolio/tech-blog.png",
+        "alt": "Tech Blog"
       },
       {
         "name":"project3",
         "description":"Full-Stack E-Commerce Site",
         "appurl":"#modal3",  
         "imgurl":"images/portfolio/mern-spa.png",
+        "alt": "MERN-Spa"
       },
       {
         "name":"project4",
         "description":"mobileapp",
         "appurl":"https://github.com/noothanks/e-commerce-back-end",
         "imgurl":"images/portfolio/weather-dashboard.png",
+        "alt": "E-Commerce Back-End"
       }
     ],
     "testimonials":[
