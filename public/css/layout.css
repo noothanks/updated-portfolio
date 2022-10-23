@@ -797,6 +797,11 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
+#contact .section-head h2 { 
+   margin-bottom: 42px; 
+   color: #FFFFFF;
+}
+
 #contact a, #contact a:visited  { color: #11ABB0; }
 #contact a:hover, #contact a:focus { color: #fff; }
 

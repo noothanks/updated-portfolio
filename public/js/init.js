@@ -104,7 +104,7 @@
 
     $('.item-wrap a').magnificPopup({
 
-       type:'inline',
+       type:'image',
        fixedContentPos: false,
        removalDelay: 200,
        showCloseBtn: false,

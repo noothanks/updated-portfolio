@@ -2,13 +2,15 @@ let resumeData = {
     "imagebaseurl":"https://noothanks.github.io/",
     "name": "Welcome!",
     "role": "Full-Stack Developer",
-    "linkedinId":"Your LinkedIn Id",
+    "email": " coreyfuller727@gmail.com",
+    "phone":" (443) 340-9548",
+    "linkedinId":" corey-fuller-5b9204236",
     "skypeid": "Your skypeid",
     "roleDescription": " I attended the University of Central Florida's Full-Stack Web Development course. I love to write code and learn about new ideas in the development world. See more below!",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/corey-fuller-5b9204236/",
           "className":"fa fa-linkedin"
         },
         {
@@ -18,7 +20,7 @@ let resumeData = {
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/coreyfuller727",
           "className":"fa fa-twitter"
         }
       ],
@@ -110,16 +112,16 @@ let resumeData = {
         "alt": "Tech Blog"
       },
       {
-        "name":"project3",
-        "description":"Full-Stack E-Commerce Site",
-        "appurl":"#modal3",  
+        "name":"MERN-Spa",
+        "description":"Full-Stack single page E-Commerce application",
+        "appurl":"modal3",  
         "imgurl":"images/portfolio/mern-spa.png",
         "alt": "MERN-Spa"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "appurl":"https://github.com/noothanks/e-commerce-back-end",
+        "name":"Weather Dashboard",
+        "description":"Functional weather app",
+        "appurl":"modal4",
         "imgurl":"images/portfolio/weather-dashboard.png",
         "alt": "E-Commerce Back-End"
       }
