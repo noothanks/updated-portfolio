@@ -128,12 +128,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"The quality of your work speaks for itself. The mock-up was reproduced with all the appropriate posts, comments, and user info and your codebase is elegant and organized. ",
+        "name":"Dan, CG"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Your codebase is very clean, and everything performed well while testing with Insomnia! The database was seeded without issue, and your CRUD operations works very well in between your Models and Routes in unison with your DB.",
+        "name":"JA, CG"
       }
     ]
   }
